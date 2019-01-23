@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "149748197780",
+    "firebase_url": "https://projet-nfc-mbds.firebaseio.com",
+    "project_id": "projet-nfc-mbds",
+    "storage_bucket": "projet-nfc-mbds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149748197780:android:1a7b7dda82f357e6",
+        "android_client_info": {
+          "package_name": "fr.mbds.bankapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149748197780-vcd9q8mockpbmjajsqb0d4b9a7kk59g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6_de-y5gG5_tkF_2ZAaz4cyTw01eRj6A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149748197780:android:a0e7fedbcd6122f0",
+        "android_client_info": {
+          "package_name": "org.mbds.mybankapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149748197780-vcd9q8mockpbmjajsqb0d4b9a7kk59g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6_de-y5gG5_tkF_2ZAaz4cyTw01eRj6A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
